@@ -1,7 +1,4 @@
-/**
- *
- * @author Ashwani
- */
+
 public abstract  class ColdDrink implements Item{
 
    

@@ -1,7 +1,4 @@
-/**
- *
- * @author Ashwani
- */
+
 public class LargeCoke extends Coke {
      @Override
     public String name() {

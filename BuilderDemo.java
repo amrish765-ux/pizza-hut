@@ -1,10 +1,7 @@
 
 import java.io.IOException;
 
-/**
- *
- * @author Ashwani
- */
+
 public class BuilderDemo {
 
     public static void main(String[] args) throws IOException {

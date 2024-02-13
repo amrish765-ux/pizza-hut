@@ -1,8 +1,5 @@
 
-/**
- *
- * @author Ashwani
- */
+
 public class LargeCheezePizza extends VegPizza {
 
     @Override

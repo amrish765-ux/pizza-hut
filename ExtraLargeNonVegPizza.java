@@ -1,8 +1,4 @@
 
-/**
- *
- * @author Ashwani
- */
 public class ExtraLargeNonVegPizza extends NonVegPizza {
     @Override
     public float price() {
